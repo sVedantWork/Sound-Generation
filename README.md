@@ -18,6 +18,5 @@ the appropriate edits just run all the cells and the model should be able to lea
 # Future Development ?
 
 Currently, I use an implementation of the Griffim-Lim algorithm to obtain sound from the mel spectograms that I generate with my VAE. Due to this, the sound generated
-is very robotic and does account for pitch and modulation in sound. Thus, I'm unable to use this model to generate music like Beethoven, Mozart, etc. I'm trying to get
-past this obstacle by learning more theory about sound generation and audio signal pre-processing and further develop this project to be effective for more 
+is very robotic and does not account for pitch and modulation in sound. Thus, I'm unable to use this model to generate music like Beethoven, Mozart, etc. I'm trying to get past this obstacle by learning more theory about sound generation and audio signal pre-processing and further develop this project to be effective for more 
 refined sound based tasks.
